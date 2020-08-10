@@ -1,0 +1,26 @@
+.task-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 20px;
+}
+
+.controlButtons {
+
+    border: none;
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    list-style-type: none;
+    display: inline-flex;
+
+}
+
+.task-img {
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+}

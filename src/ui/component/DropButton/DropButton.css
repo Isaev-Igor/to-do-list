@@ -1,0 +1,14 @@
+.DropButton-container{
+    display: flex;
+    justify-content: center;
+}
+
+.buttonClear{
+    background-color: #FCFCFC;
+    color: #19A000;
+    border: 2px solid #19A000;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 50px 0;
+}
